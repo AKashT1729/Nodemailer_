@@ -1,0 +1,13 @@
+.home{
+    margin: 0 auto;
+    width: 50%;
+    display: block;
+    border: 1px solid gray;
+    background: transparent;
+   
+    backdrop-filter: blur(10px);
+    border-radius: 8px;
+}
+.btn{
+    margin-left: 160px;
+}
